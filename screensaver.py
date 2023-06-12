@@ -1,5 +1,5 @@
 import pygame, sys
-
+# https://www.youtube.com/watch?v=tehfGVNWtCM
 pygame.init()
 
 speed = [4, 4]
