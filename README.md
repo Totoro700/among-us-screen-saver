@@ -12,6 +12,8 @@ original video for screen saver: [video](https://www.youtube.com/watch?v=tehfGVN
 
 you need `amongus.png` next to the src file (`screensaver.py`) or exe file (`screensaver.exe`) for it to work
 
+you can make it full screen, but once you change the size again, it'll get stuck (just re run again)
+
 ## how to use
 
 go to `./bin`
