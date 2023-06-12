@@ -7,6 +7,11 @@ very nice indeed
 compile method: [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
 original video for screen saver: [video](https://www.youtube.com/watch?v=tehfGVNWtCM)
+
+## notes
+
+you need `amongus.png` next to the src file (`screensaver.py`) or exe file (`screensaver.exe`) for it to work
+
 ## how to use
 
 go to `./bin`
